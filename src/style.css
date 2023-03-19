@@ -1,5 +1,5 @@
 :root {
-  font-family: Helvetica, sans-serif;
+  font-family: 'Square', 'Squareo', sans-serif;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -8,6 +8,17 @@
   -webkit-text-size-adjust: 100%;
 }
 
+@font-face {
+  font-family: "Square";
+  src: local("Square"),
+  url(./assets/fonts/Square.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Squareo";
+  src: local("Squareo"),
+  url(./assets/fonts/Squareo.ttf) format("truetype");
+}
 
 @tailwind base;
 @tailwind components;

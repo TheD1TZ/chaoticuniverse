@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center bottom-0 w-full bg-black shadow-lg py-8">
+  <div class="flex justify-center bottom-0 w-full bg-neutral-900 shadow-lg py-8">
     <div class="flex sm:gap-24 md:gap-32 text-clip overflow-hidden">
         <a class="font-main text-white">© 2023 CHAOTIC UNIVERSE</a>
         <a href="https://ditzkickz.com" class="font-main text-white">Created by DitzKickz</a>

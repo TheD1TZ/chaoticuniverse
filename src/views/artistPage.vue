@@ -1,6 +1,6 @@
 <template>
   <div class="flex bg-center w-full justify-center p-32 bg-fixed bg-[url('/backgrounds/background1.jpg')]">
-    <h1 class="font-logo text-8xl p-32 text-white font-extrabold">Our Artists</h1>
+    <h1 class="font-logo text-8xl p-24 text-white font-extrabold">Our Artists</h1>
   </div>
 
   <div class="bg-neutral-900 flex justify-center py-12">

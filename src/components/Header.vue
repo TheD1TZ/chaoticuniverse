@@ -3,7 +3,7 @@
     <!-- logo -->
     <h1 class="">
       <a href="/">
-        <h2 class="font-logo text-3xl text-white font-extrabold">{logo}</h2>
+        <h2 class="font-logo text-3xl text-white font-extrabold">CHAOTIC UNIVERSE</h2>
       </a>
     </h1>
 
