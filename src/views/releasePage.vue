@@ -30,8 +30,9 @@
         </div>
         <iframe class="rounded-2xl"
                 height="450"
-                src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1585974664&color=%232a3435&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+                src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1587006583&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=true&visual=true"
                 width="700"></iframe>
+
       </div>
 
       <div class="grid grid-cols-1 gap-6">
