@@ -10,7 +10,7 @@
     <!-- navigation -->
       <nav class="nav text-lg">
         <ul class="flex items-center text-white font-main text-1xl">
-          <li v-on:click="this.$router.push({ path: 'home' })" class="p-4 hover:text-gray-500 duration-200 cursor-pointer">
+          <li v-on:click="this.$router.push({ path: '/' })" class="p-4 hover:text-gray-500 duration-200 cursor-pointer">
             <a>HOME</a>
           </li>
           <li v-on:click="this.$router.push({ path: 'about' })" class="p-4 hover:text-gray-500 duration-300 cursor-pointer">
