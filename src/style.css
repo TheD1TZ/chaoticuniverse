@@ -1,5 +1,5 @@
 :root {
-  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Helvetica, sans-serif;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -7,6 +7,7 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+
 
 @tailwind base;
 @tailwind components;
