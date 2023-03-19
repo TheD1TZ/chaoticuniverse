@@ -13,14 +13,17 @@
           <li v-on:click="this.$router.push({ path: '/' })" class="p-4 hover:text-gray-500 duration-200 cursor-pointer">
             <a>HOME</a>
           </li>
-          <li v-on:click="this.$router.push({ path: 'about' })" class="p-4 hover:text-gray-500 duration-300 cursor-pointer">
-            <a>ABOUT</a>
+          <li v-on:click="this.$router.push({ path: 'releases' })" class="p-4 hover:text-gray-500 duration-300 cursor-pointer">
+            <a>RELEASES</a>
           </li>
           <li v-on:click="this.$router.push({ path: 'demos' })" class="p-4 hover:text-gray-500 duration-300 cursor-pointer">
             <a>DEMOS</a>
           </li>
           <li v-on:click="this.$router.push({ path: 'artists' })" class="p-4 hover:text-gray-500 duration-300 cursor-pointer">
             <a>ARTISTS</a>
+          </li>
+          <li v-on:click="this.$router.push({ path: 'about' })" class="p-4 hover:text-gray-500 duration-300 cursor-pointer">
+            <a>ABOUT</a>
           </li>
           <li v-on:click="this.$router.push({ path: 'contact' })" class="p-4 hover:text-gray-500 duration-300 cursor-pointer">
             <a>CONTACT</a>
